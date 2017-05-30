@@ -41,3 +41,6 @@ a:hover {
   padding: 21px;
   display: inline-block;
 }
+.logo{
+  float:right;
+}
